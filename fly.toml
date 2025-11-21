@@ -1,9 +1,0 @@
-app = "telegram-auto-request-bot"
-
-primary_region = "iad"
-
-[build]
-  dockerfile = "Dockerfile"
-
-[env]
-  PYTHONUNBUFFERED = "1"
